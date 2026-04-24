@@ -40,7 +40,7 @@ APKScanner 是一个面向 Android APK 的静态安全扫描工具，支持单 A
 ├── bash_scripts/
 ├── test_applications/          # 测试 APK 样本
 └── requirements.txt
-
+```
 ## 运行环境
 
 建议环境：
