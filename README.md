@@ -39,7 +39,8 @@ APKScanner 是一个面向 Android APK 的静态安全扫描工具，支持单 A
 ├── vector_base.py
 ├── bash_scripts/
 ├── test_applications/          # 测试 APK 样本
-└── requirements.txt
+├── requirements.txt
+└── video                       #演示视频
 ```
 ## 运行环境
 
