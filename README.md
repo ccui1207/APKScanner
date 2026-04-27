@@ -1,6 +1,6 @@
-# APKScanner
+# nk_apkscanner
 
-APKScanner 是一个面向 Android APK 的静态安全扫描工具，支持单 APK 分析、批量扫描、结果汇总以及按漏洞向量反查命中的 APK。
+nk_apkscanner 是一个面向 Android APK 的静态安全扫描工具，支持单 APK 分析、批量扫描、结果汇总以及按漏洞向量反查命中的 APK。
 
 ## 功能特性
 
